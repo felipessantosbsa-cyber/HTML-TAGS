@@ -32,4 +32,4 @@ O projeto organiza as tags nos seguintes grupos:
 ## Desenvolvedores
 
 * Felipe Barbosa Santos
-* Richard Murilo Araujo Freire
+* Gabriel Fernandes Barbarini
